@@ -1,0 +1,21 @@
+# Generated images (output files)
+harris.png
+matches.png
+aligned.png
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
